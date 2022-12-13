@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wuxiangchao
-- 👀 I’m interested in mathematical, computational fluid dynamics and computer science
+- 👀 I’m interested in mathematica, computational fluid dynamics and computer science
 - 🌱 I’m currently learning matrix anlysis
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Deep Learning and VSLAM
 - 📫 with email: cfd.xiangchao.wu@gmail.com
 
 <!---
